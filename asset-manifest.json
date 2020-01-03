@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photosphere/static/css/main.d1b05096.chunk.css",
+    "main.js": "/photosphere/static/js/main.3ad54589.chunk.js",
+    "main.js.map": "/photosphere/static/js/main.3ad54589.chunk.js.map",
+    "runtime-main.js": "/photosphere/static/js/runtime-main.29941b20.js",
+    "runtime-main.js.map": "/photosphere/static/js/runtime-main.29941b20.js.map",
+    "static/js/2.75ae11e7.chunk.js": "/photosphere/static/js/2.75ae11e7.chunk.js",
+    "static/js/2.75ae11e7.chunk.js.map": "/photosphere/static/js/2.75ae11e7.chunk.js.map",
+    "index.html": "/photosphere/index.html",
+    "precache-manifest.902d380ec270d0a9c4216190aee49318.js": "/photosphere/precache-manifest.902d380ec270d0a9c4216190aee49318.js",
+    "service-worker.js": "/photosphere/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/photosphere/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.75ae11e7.chunk.js.LICENSE": "/photosphere/static/js/2.75ae11e7.chunk.js.LICENSE",
+    "static/media/logo.svg": "/photosphere/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29941b20.js",
+    "static/js/2.75ae11e7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3ad54589.chunk.js"
+  ]
+}
